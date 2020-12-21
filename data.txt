@@ -1,0 +1,5 @@
+ini adalah data text yang dibuat
+ini adalah baris kedua
+ini adalah baris ketiga
+ini adalah baris keempat
+baris ini menggunakan mode append
